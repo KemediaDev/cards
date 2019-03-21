@@ -2,10 +2,12 @@
 ---
 
 
-@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700,900");
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,600,600i,700,700i,900,900i");
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,900,900i");
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,900,900i");
 
 // Our variables
-$base-font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: "Roboto", "Open Sans", "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 400;
 $small-font-size:  $base-font-size * 0.875;
@@ -15,7 +17,7 @@ $spacing-unit:     30px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
+$brand-color:      #022037;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
